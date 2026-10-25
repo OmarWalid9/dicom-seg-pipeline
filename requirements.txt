@@ -1,0 +1,5 @@
+monai[nibabel,tqdm]
+pydicom
+highdicom
+SimpleITK
+matplotlib
